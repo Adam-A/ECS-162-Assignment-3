@@ -1,6 +1,6 @@
 ## Norcal-Weather
 
-Designs by Jamie Oka, implemented by Adam Ali and Cameron Lee
+Designs by Jamie Oka, implemented by [Adam Ali](https://github.com/adam-a) and [Cameron Lee](https://github.com/cmnlee)
 
 Using OpenWeatherMap API and live doppler map data (updated every 10 mins)
 
